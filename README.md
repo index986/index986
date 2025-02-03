@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @index986
 - 👀 I’m interested in playing Conunter Strike 2, porting UEFI to different Phones
-- 🌱 I’m currently learning Unity / C#
+- 🌱 I’m currently learning: Python ( In school )
 - 💞️ I like some tech talks
 - 📫 How to reach me Discord: index.html
 - 😄 Pronouns: He
