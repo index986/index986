@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @index986
 - 👀 I’m calm and chill person. Interested in Linux, oh almost forgot to say, I use Arch btw
-- 🌱 I’m currently learning: DTS
+- 🌱 I’m currently learning: Rust, DTS
 - 💞️ I love J-Pop music, its remixes, and translations 
 - 📫 How to reach me Discord: index986
 - 😄 Pronouns: He/His
